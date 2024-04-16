@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tic-tac-toe-83bad": {
+      "hosting": {
+        "tic-tac-toe": [
+          "tic-tac-toe-83bad"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tic-tac-toe-83bad"
+  }
+}
